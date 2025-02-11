@@ -1,5 +1,17 @@
 # IOT102
-All source code about IOT102 that we learned at FPT University QN AI Campus.
+
+![GitHub contributors](https://img.shields.io/github/contributors/fptqnk17/IOT102)
+![GitHub top language](https://img.shields.io/github/languages/top/fptqnk17/IOT102)
+![GitHub repo size](https://img.shields.io/github/repo-size/fptqnk17/IOT102)
+![GitHub License](https://img.shields.io/github/license/fptqnk17/IOT102)
+
+> All source code about IOT102 that we learned at FPT University QN AI Campus.
+
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
 
 ## About
 - Tools:
